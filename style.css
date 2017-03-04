@@ -1,0 +1,23 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	background:url("background.gif");
+	background-size:cover;
+	width:100%;
+	font-family: 'Roboto', sans-serif;
+	display:flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+	font-size:35px;
+	height:100vh;
+
+}
+
+h1 {
+	padding-top: 1em;
+	color: #ffad47;	
+}
